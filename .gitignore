@@ -8,3 +8,4 @@ db.sqlite3
 */migrations/*
 hantorism/hantorism_home/migrations/__pycache__/__init__.cpython-37.pyc
 hantorism/settings_local.py
+myenv
